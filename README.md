@@ -20,8 +20,6 @@ I'm a passionate Fullstack Developer with hands-on experience in building both *
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaceJS&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaceJS&layout=compact&theme=radical)
 
 ---

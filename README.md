@@ -13,16 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hello! I'm a Jonathan
-I'm a passionate Fullstack Developer with hands-on experience in building both web and mobile applications. I love crafting seamless, user-friendly applications that solve real-world problems. With expertise spanning front-end, back-end, and everything in between, I bring ideas to life from design to deployment.
+### 👋 Hello! I'm Jonathan
 
-🚀 Fullstack Expertise: From building dynamic UIs to designing robust APIs and managing databases, I enjoy tackling challenges across the stack.
-📱 Mobile Development: Creating responsive, efficient mobile apps that feel right at home on iOS and Android.
-💡 Problem Solver: I thrive on solving complex issues, optimizing code, and learning the latest tech to stay ahead.
+I'm a passionate Fullstack Developer with hands-on experience in building both **web** and **mobile applications**. I love crafting seamless, user-friendly applications that solve real-world problems. With expertise spanning front-end, back-end, and everything in between, I bring ideas to life from design to deployment.
 
+---
 
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaceJS&show_icons=true&theme=radical)
 
-![Visitor Count](https://hits.dwyl.com/JaceJS/JaceJS.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaceJS&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaceJS&layout=compact)
+---
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jonathansalendah)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey)](https://yourportfolio.com)
+
+---
+
+## 👀 Count
+![Visitor Count](https://hits.dwyl.com/usernamegithub/usernamegithub.svg)
+
 

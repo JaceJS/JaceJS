@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/JaceJS/visits)
+![Visitor Count](https://hits.dwyl.com/JaceJS/JaceJS.svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaceJS&layout=compact)
 

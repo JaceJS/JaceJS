@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hello! I'm Jonathan
 
-I'm a passionate Fullstack Developer with hands-on experience in building both **web** and **mobile applications**. I love crafting seamless, user-friendly applications that solve real-world problems. With expertise spanning front-end, back-end, and everything in between, I bring ideas to life from design to deployment.
+I'm a passionate Fullstack Developer with hands-on experience in building both **web** and **mobile applications**. Driven by a constant desire to learn and embrace new technologies, continually expanding my skill set to stay at the forefront of the industry.
 
 ---
 

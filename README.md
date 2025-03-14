@@ -28,7 +28,6 @@ I'm a passionate Fullstack Developer with hands-on experience in building both *
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jonathansalendah)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey)](https://jonathan-salendah.vercel.app/)
-![Visitor Count](https://hits.dwyl.com/JaceJS/JaceJS.svg)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=JaceJS.JaceJS)
 
 ---

@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Jonathan
 
-I'm a passionate Fullstack Developer with hands-on experience in building both **web** and **mobile applications**. Driven by a constant desire to learn and embrace new technologies, continually expanding my skill set to stay at the forefront of the industry.
+Software engineer focused on keeping code clean and building apps that can scale as they grow. Always make sure the software is secure, reliable, and ready for future needs.
 
 ---
 

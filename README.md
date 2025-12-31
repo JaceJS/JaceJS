@@ -21,7 +21,7 @@ I'm a passionate Fullstack Developer with hands-on experience in building both *
 
 ---
 
-### 📊 My GitHub Repo Stats
+### 📊 My GitHub Repo (Public) Stats
 <!-- [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaceJS&layout=compact&theme=radical) -->
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JaceJS&layout=compact&theme=radical)
 

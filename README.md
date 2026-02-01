@@ -22,6 +22,8 @@ Software engineer focused on keeping code clean and building apps that can scale
 
 ---
 
+### 🎮 My contribution graph
+
 ![space shooter](space-shooter.gif)
 
 ### 📊 My GitHub Repo (Public) Stats

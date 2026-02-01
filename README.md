@@ -5,6 +5,7 @@ Software engineer focused on keeping code clean and building apps that can scale
 ---
 
 ### 🛠️ Skills
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -21,17 +22,20 @@ Software engineer focused on keeping code clean and building apps that can scale
 
 ---
 
+![space shooter](space-shooter.gif)
+
 ### 📊 My GitHub Repo (Public) Stats
+
 <!-- [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaceJS&layout=compact&theme=radical) -->
+
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JaceJS&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jonathansalendah)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey)](https://jonathansalendah.tech/)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=JaceJS.JaceJS)
 
 ---
-
-

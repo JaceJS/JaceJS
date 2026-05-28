@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Jonathan
 
-Software engineer focused on keeping code clean and building apps that can scale as they grow. Always make sure the software is secure, reliable, and ready for future needs.
+Software engineer focused on keeping code clean and building apps that can scale as they grow. Actively integrates AI into development workflow to improve efficiency and delivery speed. Always make sure the software is secure, reliable, and ready for future needs.
 
 ---
 
